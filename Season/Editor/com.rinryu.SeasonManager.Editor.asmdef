@@ -1,0 +1,17 @@
+{
+    "name": "com.rinryu.season.editor",
+    "references": [
+        "GUID:1d26cd99b4383cf4196d93b48027de48"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
